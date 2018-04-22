@@ -1,20 +1,20 @@
 # Project-4-HOTEL-MANAGEMENT-SYSTEM-Mert_Gokhan_Ertan
 
-Version 1.0 için projemiz aşağıdaki gibidir.
+Our project for Version 1.0 is as follows,
 
-Giriş yapmak için;
+TO LOG IN;
 
     User: Admin
 		
     password: Admin
 
-## Yapilacaklar
+## Things to do
 
-* CheckIn ve CheckOut girildiğinde Nights otomatik dolacak (JCalendar kullanılacak)
-* Girilen bilgilere göre Subtotal otomatik hesaplanacak
-* Discount ve Tax girdilerine göre Total otomatik hesaplanacak
-* Database oluşturulup bilgiler table a databaseden gelecekler
-* Tasarımda yeniden düzenlenmeye gidilebilir.
+* Nights automatically populate when CheckIn and CheckOut are entered (JCalendar will be used)
+* Subtotal will be automatically calculated according to the entered information
+* Total automatically calculated according to Discount and Tax entries
+* Database will be created and the information will come from a database to table
+* The design can be rearranged.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/serhatuzunbayir/Project-4-HOTEL-MANAGEMENT-SYSTEM-Mert_Gokhan_Ertan/blob/master/login.png">
